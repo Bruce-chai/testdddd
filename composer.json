@@ -16,12 +16,6 @@
     "require": {
         "oomphinc/composer-installers-extender": "^2.0"
     },
-    "repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
-        }
-    },
     "config": {
         "allow-plugins": {
             "composer/installers": true,
