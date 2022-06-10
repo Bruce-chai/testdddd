@@ -1,7 +1,7 @@
 {
     "name": "chaishuai/testdddd",
     "description": "cesih",
-    "type": "my-library",
+    "type": "my-routes",
     "autoload": {
         "psr-4": {
             "Chaishuai\\Testdddd\\": "src/"
@@ -19,7 +19,7 @@
     "repositories": {
         "packagist": {
             "type": "composer",
-            "url": "https://mirrors.aliyun.com/composer/"
+            "url": "https://packagist.phpcomposer.com"
         }
     },
     "config": {
