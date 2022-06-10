@@ -25,7 +25,7 @@
     "repositories": {
         "packagist": {
             "type": "composer",
-            "url": "http://localhost:9999"
+            "url": "https://packagist.phpcomposer.com"
         }
     }
 }
